@@ -1,0 +1,8 @@
+INSERT INTO TIPODOC VALUES ('CC', 'Cédula de Ciudadanía');
+INSERT INTO TIPODOC VALUES ('TI', 'Tarjeta de Identidad');
+INSERT INTO TIPODOC VALUES ('TE', 'Tarjeta de Extranjería');
+INSERT INTO TIPODOC VALUES ('CE', 'Cédula de Extranjería');
+INSERT INTO TIPODOC VALUES ('NIT', 'Nit');
+INSERT INTO TIPODOC VALUES ('PAS', 'Pasaporte');
+
+SELECT * FROM TIPODOC;
