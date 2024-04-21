@@ -1,0 +1,14 @@
+lastupdate.tmp
+.vscode/
+candidato-bd
+candidato-bd.exe
+go.mod
+go.sum
+main
+.scannerwork/
+*.env
+swagger/**
+!swagger/*.json
+!swagger/*.yml
+swagger.zip
+
